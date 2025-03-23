@@ -3,7 +3,7 @@
 Here are the list of awards that I got in the past hackathons, etc:
 
 - Finalist in ETHSF 2025 ([link](https://t.me/c/2492896130/2287))
-  - Project: [ZK Energy Trading Platform(https://github.com/masaun/ZK-energy-trading-platform-in-RISC0/tree/main), using Boundless / RISC Zero zkVM.
+  - Project: [ZK Energy Trading Platform](https://github.com/masaun/ZK-energy-trading-platform-in-RISC0/tree/main), using Boundless / RISC Zero zkVM.
 
 - Winner for the prize of "Union Finance" in the EthCC Hack 2022 ([link](https://medium.com/@dereksilva/ethcc-hack-2022-winners-3461e41c8b42))
   - Project: [Social Impact Voucher](https://github.com/masaun/social-impact-voucher) 
